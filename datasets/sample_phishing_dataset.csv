@@ -1,0 +1,47 @@
+text,label
+"Security alert: unusual activity was detected on your account. Verify your account immediately at https://secure-paypal-login.xyz/update",phishing
+"Your password expires today. Login immediately and reset your password to avoid account suspension.",phishing
+"Microsoft 365 notice: confirm your identity and one-time password at http://office365-secure-check.top/login",phishing
+"Account suspended due to billing mismatch. Update your bank details at https://bank-support-verify.click",phishing
+"Urgent action required: payment failed and your cloud files will be deleted unless you verify your account.",phishing
+"We detected a new sign-in from Russia. Reset your password now using the secure link below.",phishing
+"Final notice from IT: your mailbox will close tonight. Confirm your identity to keep access.",phishing
+"Your invoice attached requires encrypted sign-in. Open the link and enter your employee password.",phishing
+"Payroll portal update: login immediately to validate your social security and direct deposit information.",phishing
+"Apple security alert: unusual activity on your iCloud account. Visit http://appleid-support-login.xyz",phishing
+"Amazon payment failed. Confirm your identity and update your card within 30 minutes.",phishing
+"Bank alert: account suspended. Re-activate by entering your OTP and password.",phishing
+"Shared document requires verification. Sign in with your company credentials to view confidential files.",phishing
+"VPN certificate expired. Reset your password and confirm your one-time password to reconnect.",phishing
+"Your email storage is full. Verify your account to avoid permanent deletion.",phishing
+"Congratulations lottery winner. Claim your prize by sending bank details and a processing fee.",scam
+"Kindly send gift card codes today for the confidential client surprise. Do not share this request.",scam
+"Limited time crypto wallet bonus. Deposit now and double your money within one hour.",scam
+"You have been selected for a government refund. Pay a small release fee to receive funds.",scam
+"Act now to claim your prize. Reply with your full name, address, and bank details.",scam
+"Investment opportunity guaranteed to return 40 percent weekly. Send wire transfer to reserve your place.",scam
+"Final notice: your package is held at customs. Pay delivery tax with gift card to release it.",scam
+"I am a foreign official transferring inheritance funds. Kindly send your bank details for processing.",scam
+"Your crypto wallet qualifies for airdrop rewards. Send seed phrase to validate ownership.",scam
+"Urgent vendor change: wire transfer payment to this new account before close of business.",scam
+"You won a Netflix yearly subscription. Claim your prize by completing a short payment verification.",scam
+"Remote job approved. Buy starter equipment with gift cards and send the codes to payroll.",scam
+"This is a confidential request from the CEO. Purchase gift cards and reply with photos.",scam
+"Free bonus tokens available today only. Connect your wallet and approve all permissions.",scam
+"Dating profile verification required. Pay the refundable safety fee using crypto wallet transfer.",scam
+"Team, the quarterly planning meeting has moved to Thursday at 10 AM. Calendar invite is attached.",safe
+"Your package was delivered at 2:14 PM. Track the shipment through your registered courier account.",safe
+"The finance team approved the vendor invoice. No action is required from your side.",safe
+"Reminder: please review the updated security awareness policy before Friday.",safe
+"Your password was changed successfully. If this was not you, contact the help desk directly.",safe
+"Thanks for joining the webinar. Slides and recording will be posted in the internal portal.",safe
+"The restaurant booking for tomorrow is confirmed under your name.",safe
+"Your monthly bank statement is ready in the official mobile banking app.",safe
+"Build pipeline completed successfully for the production release branch.",safe
+"HR shared the open enrollment schedule. Benefits selection starts next Monday.",safe
+"The customer support ticket has been closed after your confirmation.",safe
+"Lunch order receipt from the cafeteria: paid by card ending in 4421.",safe
+"Your doctor appointment reminder is scheduled for 3 PM on Tuesday.",safe
+"Security training completed. Certificate available in the employee learning portal.",safe
+"Here is the weekly team update with roadmap notes and project blockers.",safe
+

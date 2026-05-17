@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/cybershield.db
+*.log
+
+# Node
+node_modules/
+frontend/dist/
+
+# Local secrets and generated reports
+.env
+backend/reports/*.pdf
